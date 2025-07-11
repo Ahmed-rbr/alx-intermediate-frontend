@@ -1,0 +1,16 @@
+// # 1.got to the main directory
+// cd alx-intermediate-frontend
+//# 2.created the new project directory
+// mkdir 0x03-sass_scss
+//# 3.enter the new directory
+// cd 0x03-sass_scss
+// # 4. Install Node.js version 20.16 using NVM
+// nvm install 20.16.0
+// nvm use 20.16.0
+
+// # 5. Verify Node.js and npm installation
+// node -v
+// npm -v
+
+// # 5. Install SASS using npm
+// npm install sass
